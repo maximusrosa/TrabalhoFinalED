@@ -1,0 +1,10 @@
+# ninja log v5
+229	3931	7161489261841756	CMakeFiles/untitled.dir/ABP.c.obj	4702183ef6802e3e
+133	1853	7161550964199009	CMakeFiles/untitled.dir/ordenada_LSE.c.obj	3bc824f45c382e8e
+1262	5383	7161473859393207	CMakeFiles/untitled.dir/LSE.c.obj	aba382fb555534f5
+202	3121	7161550977748060	CMakeFiles/untitled.dir/ordenada_ABP.c.obj	9950728c1cd8aa3f
+49	1211	7161553702235324	CMakeFiles/untitled.dir/aleatoria_LSE.c.obj	b30f8bb11f8fd071
+56	2369	7161489246182036	CMakeFiles/untitled.dir/main.c.obj	2fa6b9228d300f92
+547	4136	7161422009244186	CMakeFiles/untitled.dir/utils.c.obj	bb36d0292394e174
+269	2417	7161550970694204	CMakeFiles/untitled.dir/aleatoria_ABP.c.obj	c55376b35a56a3f3
+1214	1730	7161553707384553	untitled.exe	c9e1ec4c3b4c60c4
